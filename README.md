@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Heet Trivedi 👋
 
-<!--
-**analyticsbeginshere/analyticsbeginshere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BSc IT graduate based in Mumbai, building AI automation workflows for business use cases.
 
-Here are some ideas to get you started:
+## What I work with
+- **Automation:** n8n, AI Agents, OpenAI
+- **Integrations:** Google Sheets, Airtable, Telegram Bot API
+- **Data:** Excel, Power BI, SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured project
+**[AI Lead Capture & Qualification Bot](https://github.com/analyticsbeginshere/ai-lead-capture-bot)**
+An n8n workflow that captures leads from a Google Form, classifies them as hot or cold using AI, saves them to Airtable, and sends instant Telegram alerts for hot leads.
+
+## Other projects
+- HR Analytics Dashboard (Power BI)
+- Vrinda Store Annual Business Report (Excel)
+
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/heet-trivedi-8it/)
+- Email: heet68892@gmail.com
